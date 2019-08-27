@@ -1,0 +1,8 @@
+reference_genome_name	hs37d5
+read_length	101
+window_size	500
+reference_index_folder_path	/simm/program/cancer_purity/Accurity/refData
+reference_genome_fasta_path /simm/huangyulab/AccurityTestData/refData/hs37d5.fa	
+samtools_path	/simm/program/bin/samtools
+freebayes_path	/simm/program/bin/freebayes
+accurity_path	/simm/program/cancer_purity/Accurity
