@@ -9,4 +9,4 @@ For more information, check https://www.yfish.org/display/PUB/Accurity
 
 To compile, go into Accurity/ and type "make debug" or "make release".
 
-Accurity is not easy to compile. If you just want to use Accurity, please use its docker, https://www.yfish.org/display/PUB/Accurity#Accurity-3.1Docker.
+Accurity is not easy to compile. If you just want to use Accurity, please use its docker, https://www.yfish.org/display/PUB/Accurity#Accurity-Docker.
